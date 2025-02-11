@@ -25,4 +25,4 @@ jobs:
           context: .
           file: ./Dockerfile
           push: true
-          tags: mdean808/dsci310-assignment-3-rstudio:latest
+          tags: mdean808/dockerfile-practice:latest
